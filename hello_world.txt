@@ -1,1 +1,3 @@
 "Hello world" is the starting of all great journeys.
+
+To be Frontend or not to be, that is the question.
